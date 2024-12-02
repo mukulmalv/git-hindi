@@ -1,2 +1,3 @@
 this is my first file
-thi is second line 
+thi is second linthid i3
+this is my third line 
